@@ -20,6 +20,13 @@ Thanks for dropping by.
 
 I'm a computer science student and software developer. My personal work is hosted here - poke around at your own discretion. 
 
+<a href="https://github.com/fant8/fant8">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fant8" />
+</a>
+<a href="https://github.com/fant8/fant8">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fant8&show_icons=true&line_height=27&count_private=true& alt="Amy's GitHub Stats" />
+</a>
+
 
 ### More about me
 Just in case you're curious.
@@ -30,7 +37,7 @@ Just in case you're curious.
 #### Connect with me 
 [![MAIL](https://img.shields.io/badge/-Mail-black?style=flat-square&logo=GMAIL)](mailto:amyfan808@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/amy-fan/)
-
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium)](https://medium.com/@amyisdoingthings)
 
 <!---
 fant8/fant8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
