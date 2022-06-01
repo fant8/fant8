@@ -18,7 +18,7 @@ Thanks for dropping by.
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
 
-Computer science student, software developer, cat person. My personal work is hosted here - poke around at your own discretion. 
+Computer science student @ McMaster University, software developer, cat person. My personal work is hosted here - poke around at your own discretion. 
 
 <a href="https://github.com/fant8/fant8">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fant8" />
