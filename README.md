@@ -1,4 +1,5 @@
 # Hi, I'm Amy!👋
+<img align="center" alt="GIF" height="300px" width="300px" src="./giphy.gif" />
 Thanks for dropping by.
 
 ## About me
