@@ -32,10 +32,6 @@ Just in case you're curious.
 - I'm a running hobbyist 🏃🏻‍♀️
 - I love to cook and eat 🥘
 - I'm a music nerd (tell me about your favourite song!) 🎶
-  
-#### I'm listening to: 
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/amyfan808) 
 
 
 #### Connect with me 
