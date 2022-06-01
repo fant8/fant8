@@ -30,7 +30,7 @@ Computer science student, software developer, cat person. My personal work is ho
 
 ### More about me
 Just in case you're curious.
-- I'm a running hobbyist 🏃🏻‍♀️
+- I'm a running hobbyist turned gym rat🏃🏻‍♀️
 - I love to cook and eat 🥘
 - I'm a music nerd (tell me about your favourite song!) 🎶
 
